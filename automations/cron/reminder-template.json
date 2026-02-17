@@ -1,0 +1,14 @@
+{
+  "name": "example-reminder",
+  "sessionTarget": "main",
+  "enabled": true,
+  "notify": true,
+  "schedule": {
+    "kind": "at",
+    "at": "2026-02-20T16:00:00-07:00"
+  },
+  "payload": {
+    "kind": "systemEvent",
+    "text": "Reminder: <what to remember>."
+  }
+}
