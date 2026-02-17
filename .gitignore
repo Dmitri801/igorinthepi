@@ -1,1 +1,17 @@
 .openclaw/workspace-state.json
+
+# Secrets / credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# OpenClaw local secrets/config
+.openclaw/
+
+# Local outputs
+outputs/
