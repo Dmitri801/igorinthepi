@@ -45,6 +45,18 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
+### 🧷 Conversation Continuity Rule (Main Session)
+
+When chatting with Dima in direct chat:
+
+- Log key outcomes the same day in `memory/YYYY-MM-DD.md`:
+  - decisions made
+  - active tasks / next actions
+  - explicit preferences
+  - important timestamps (e.g., when we reconnected)
+- If a fact should persist beyond a day, also update `MEMORY.md`.
+- If asked "how long since we last chatted," use saved timestamps from memory files; if missing, say so explicitly and then start tracking going forward.
+
 ## Safety
 
 - Don't exfiltrate private data. Ever.
